@@ -19,6 +19,7 @@
 - Deep Learning
 - Machine Learning
 - Computer Vision
+- .Net Framework
 
 ### Tech Stack
 
